@@ -125,7 +125,7 @@ print(traversedpath)
 7 9 <BR>
 A B <BR>
 A C <BR>
-A F <BR>
+A F <BR> 
 C E <BR>
 C F <BR>
 C D <BR>
